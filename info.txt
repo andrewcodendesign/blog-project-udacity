@@ -1,0 +1,11 @@
+top section
+logo
+nav
+
+hero
+
+blog section
+3 per row
+load function
+
+footer
